@@ -1,0 +1,34 @@
+export const links = [
+    {
+        name:'О нас',
+        link:'/about'
+    },
+    {
+        name:'Концепция',
+        link:'/concept'
+    },
+    {
+        name:'Сортировка',
+        link:'/sorting'
+    },
+    {
+        name:'Карта',
+        link:'/map'
+    },
+    {
+        name:'Зачем',
+        link:'/social-value'
+    },
+    {
+        name:'Услуги',
+        link:'/services'
+    },
+    {
+        name:'Контакты',
+        link:'/contacts'
+    },
+    {
+        name:'Магазин',
+        link:'/shop'
+    },
+]
